@@ -1,6 +1,6 @@
 spring:
  application:
-  name: product-store
+  name: user-service
 
 server:
  port: 7777
