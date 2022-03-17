@@ -1,0 +1,11 @@
+spring:
+ application:
+  name: product-store
+
+server:
+ port: 0
+
+user:
+ role: USER
+ username: John
+ password: 1234
