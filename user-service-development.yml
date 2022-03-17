@@ -7,6 +7,4 @@ server:
 
 user:
  role: USER
- username: John
- password: 1234
 
